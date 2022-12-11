@@ -1,0 +1,6 @@
+#include<studio.h>
+int main ()
+{
+Printf("hello ishaq");
+Return 0;
+}
